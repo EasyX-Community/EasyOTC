@@ -13,7 +13,7 @@ A simple script to sell crypto assets, provide an online OTC desk, and automated
 | **✓** | **Others can sell crypto assets** | [ LeshaCat ] |
 | **✓** | **Automated escrow service** | [ LeshaCat ] |
 | **✓** | **Security & Privacy focused** | [ LeshaCat ] |
-| **✓** | **Captcha enforced on all pages** | [ LeshaCat ] |
+| **✓** | **ReCaptcha on all pages** | [ LeshaCat ] |
 | **✓** | **Minimal data logged** | [ LeshaCat ] |
 | **✓** | **No pesky log in** | [ LeshaCat ] |
 | **✓** | **Order status page** | [ LeshaCat ] |
