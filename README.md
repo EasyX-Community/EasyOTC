@@ -15,7 +15,7 @@ A simple script to sell crypto assets, provide an online OTC desk, and automated
 | **✓** | **Ability to check order status** | [ LeshaCat ] |
 | **✓** | **Security & Privacy focused** | [ LeshaCat ] |
 | **✓** | **Captcha enforced on all pages** | [ LeshaCat ] |
-| **✓** | **No pesky log in** | [ LeshaCat ] |
 | **✓** | **Minimal data logged** | [ LeshaCat ] |
+| **✓** | **No pesky log in** | [ LeshaCat ] |
 
 Coded by LeshaCat of EasyX Community!
